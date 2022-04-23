@@ -34,6 +34,4 @@
 
 <a href="https://harishmashetty.github.io/tsbsp/18" target="_blank">template-18</a> 
 
-<a href="https://harishmashetty.github.io/tsbsp/19" target="_blank">template-19</a> 
-
-<a href="https://harishmashetty.github.io/tsbsp/20" target="_blank">template-20</a> 
+<a href="https://harishmashetty.github.io/tsbsp/19" target="_blank">template-19</a>
