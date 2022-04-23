@@ -1,39 +1,39 @@
-template 1: https://harishmashetty.github.io/tsbsp/1
+<a href="https://harishmashetty.github.io/tsbsp/1" target="_blank">template-1</a> 
 
-template 2: https://harishmashetty.github.io/tsbsp/2
+<a href="https://harishmashetty.github.io/tsbsp/2" target="_blank">template-2</a> 
 
-template 3: https://harishmashetty.github.io/tsbsp/3
+<a href="https://harishmashetty.github.io/tsbsp/3" target="_blank">template-3</a> 
 
-template 4: https://harishmashetty.github.io/tsbsp/4
+<a href="https://harishmashetty.github.io/tsbsp/4" target="_blank">template-4</a> 
 
-template 5: https://harishmashetty.github.io/tsbsp/5
+<a href="https://harishmashetty.github.io/tsbsp/5" target="_blank">template-5</a> 
 
-template 6: https://harishmashetty.github.io/tsbsp/6
+<a href="https://harishmashetty.github.io/tsbsp/6" target="_blank">template-6</a> 
 
-template 7: https://harishmashetty.github.io/tsbsp/7
+<a href="https://harishmashetty.github.io/tsbsp/7" target="_blank">template-7</a> 
 
-template 8: https://harishmashetty.github.io/tsbsp/8
+<a href="https://harishmashetty.github.io/tsbsp/8" target="_blank">template-8</a> 
 
-template 9: https://harishmashetty.github.io/tsbsp/9
+<a href="https://harishmashetty.github.io/tsbsp/9" target="_blank">template-9</a> 
 
-template 10: https://harishmashetty.github.io/tsbsp/10
+<a href="https://harishmashetty.github.io/tsbsp/10" target="_blank">template-10</a> 
 
-template 11: https://harishmashetty.github.io/tsbsp/11
+<a href="https://harishmashetty.github.io/tsbsp/11" target="_blank">template-11</a> 
 
-template 12: https://harishmashetty.github.io/tsbsp/12
+<a href="https://harishmashetty.github.io/tsbsp/12" target="_blank">template-12</a> 
 
-template 13: https://harishmashetty.github.io/tsbsp/13
+<a href="https://harishmashetty.github.io/tsbsp/13" target="_blank">template-13</a> 
 
-template 14: https://harishmashetty.github.io/tsbsp/14
+<a href="https://harishmashetty.github.io/tsbsp/14" target="_blank">template-14</a> 
 
-template 15: https://harishmashetty.github.io/tsbsp/15
+<a href="https://harishmashetty.github.io/tsbsp/15" target="_blank">template-15</a> 
 
-template 16: https://harishmashetty.github.io/tsbsp/16
+<a href="https://harishmashetty.github.io/tsbsp/16" target="_blank">template-16</a> 
 
-template 17: https://harishmashetty.github.io/tsbsp/17
+<a href="https://harishmashetty.github.io/tsbsp/17" target="_blank">template-17</a> 
 
-template 18: https://harishmashetty.github.io/tsbsp/18
+<a href="https://harishmashetty.github.io/tsbsp/18" target="_blank">template-18</a> 
 
-template 19: https://harishmashetty.github.io/tsbsp/19
+<a href="https://harishmashetty.github.io/tsbsp/19" target="_blank">template-19</a> 
 
-template 20: https://harishmashetty.github.io/tsbsp/20
+<a href="https://harishmashetty.github.io/tsbsp/20" target="_blank">template-20</a> 
